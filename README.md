@@ -1,7 +1,10 @@
 # Walmart-Black-Friday-Sales
 Analyzing customer purchase  behaviour at Walmart during black Friday Sales
 
-![walmart](https://github.com/user-attachments/assets/1b7e7a11-aafd-4fd3-9571-e80ffbf0fe79)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1b7e7a11-aafd-4fd3-9571-e80ffbf0fe79" alt="walmart">
+</div>
+
 
 
 This repository contains the analysis of customer purchase behavior at Walmart, specifically focusing on the differences in spending habits between male and female customers during Black Friday. The analysis leverages statistical methods, including confidence intervals and the Central Limit Theorem, to draw insights and provide recommendations.
